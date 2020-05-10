@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nagasupport/react-single-page-app/static/css/main.9a1d3e95.chunk.css",
+    "main.js": "/nagasupport/react-single-page-app/static/js/main.63897643.chunk.js",
+    "main.js.map": "/nagasupport/react-single-page-app/static/js/main.63897643.chunk.js.map",
+    "runtime-main.js": "/nagasupport/react-single-page-app/static/js/runtime-main.7ef6011b.js",
+    "runtime-main.js.map": "/nagasupport/react-single-page-app/static/js/runtime-main.7ef6011b.js.map",
+    "static/js/2.bc65f737.chunk.js": "/nagasupport/react-single-page-app/static/js/2.bc65f737.chunk.js",
+    "static/js/2.bc65f737.chunk.js.map": "/nagasupport/react-single-page-app/static/js/2.bc65f737.chunk.js.map",
+    "index.html": "/nagasupport/react-single-page-app/index.html",
+    "precache-manifest.11dcf13763d914e265e2230173f1a973.js": "/nagasupport/react-single-page-app/precache-manifest.11dcf13763d914e265e2230173f1a973.js",
+    "service-worker.js": "/nagasupport/react-single-page-app/service-worker.js",
+    "static/css/main.9a1d3e95.chunk.css.map": "/nagasupport/react-single-page-app/static/css/main.9a1d3e95.chunk.css.map",
+    "static/js/2.bc65f737.chunk.js.LICENSE.txt": "/nagasupport/react-single-page-app/static/js/2.bc65f737.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ef6011b.js",
+    "static/js/2.bc65f737.chunk.js",
+    "static/css/main.9a1d3e95.chunk.css",
+    "static/js/main.63897643.chunk.js"
+  ]
+}
